@@ -1,0 +1,617 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{
+{\b\qc\line Coal miners, age>=15_ - General Education Levels }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx5000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6500\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx8000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx9500
+\ql {General Educaion Level}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx5000\cellx6500\cellx8000\cellx9500
+\ql {not literate}\cell
+\qr {45633}\cell
+\qr {12.16}\cell
+\qr {12.16}\cell
+\row
+\ql {others}\cell
+\qr {2426}\cell
+\qr {0.65}\cell
+\qr {12.81}\cell
+\row
+\ql {literate: below primary}\cell
+\qr {10253}\cell
+\qr {2.73}\cell
+\qr {15.54}\cell
+\row
+\ql {primary}\cell
+\qr {29394}\cell
+\qr {7.83}\cell
+\qr {23.37}\cell
+\row
+\ql {middle}\cell
+\qr {83107}\cell
+\qr {22.14}\cell
+\qr {45.51}\cell
+\row
+\ql {secondary}\cell
+\qr {61086}\cell
+\qr {16.28}\cell
+\qr {61.79}\cell
+\row
+\ql {higher secondary}\cell
+\qr {43012}\cell
+\qr {11.46}\cell
+\qr {73.25}\cell
+\row
+\ql {diploma/certificate course}\cell
+\qr {28762}\cell
+\qr {7.66}\cell
+\qr {80.91}\cell
+\row
+\ql {graduate}\cell
+\qr {62743}\cell
+\qr {16.72}\cell
+\qr {97.63}\cell
+\row
+\ql {postgraduate and above}\cell
+\qr {8895}\cell
+\qr {2.37}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx5000\clbrdrt\brdrw10\brdrs\cellx6500\clbrdrt\brdrw10\brdrs\cellx8000\clbrdrt\brdrw10\brdrs\cellx9500 
+\ql {Total}\cell
+\qr {375311}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx9500\cell
+\row}
+
+
+{
+{\b\qc\line Coal miners, age>=15_  - Technical Education }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx5000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6500\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx8000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx9500
+\ql {Technical Educaion Level}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx5000\cellx6500\cellx8000\cellx9500
+\ql {No technical education}\cell
+\qr {321470}\cell
+\qr {85.65}\cell
+\qr {85.65}\cell
+\row
+\ql {Technical degree in engineering/technology}\cell
+\qr {9404}\cell
+\qr {2.51}\cell
+\qr {88.16}\cell
+\row
+\ql {Diploma or certificate (below graduate level) in engineering/technology}\cell
+\qr {23384}\cell
+\qr {6.23}\cell
+\qr {94.39}\cell
+\row
+\ql {Diploma or certificate (below graduate level) in other subjects}\cell
+\qr {19307}\cell
+\qr {5.14}\cell
+\qr {99.53}\cell
+\row
+\ql {Diploma or certificate (graduate and above level) in engineering/technology}\cell
+\qr {1746}\cell
+\qr {0.47}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx5000\clbrdrt\brdrw10\brdrs\cellx6500\clbrdrt\brdrw10\brdrs\cellx8000\clbrdrt\brdrw10\brdrs\cellx9500 
+\ql {Total}\cell
+\qr {375311}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx9500\cell
+\row}
+
+
+{
+{\b\qc\line Coal miners, age>=15_  - Whether recieved any technical/vocational training }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx5000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6500\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx8000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx9500
+\ql {Whether received any Vocational/Technical Training}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx5000\cellx6500\cellx8000\cellx9500
+\ql {Received formal vocational/technical training}\cell
+\qr {72636}\cell
+\qr {20.03}\cell
+\qr {20.03}\cell
+\row
+\ql {Received vocational/technical training other than formal vocational/technical training: hereditary}\cell
+\qr {13022}\cell
+\qr {3.59}\cell
+\qr {23.62}\cell
+\row
+\ql {Received vocational/technical training other than formal vocational/technical training: self-learning}\cell
+\qr {14735}\cell
+\qr {4.06}\cell
+\qr {27.68}\cell
+\row
+\ql {Received vocational/technical training other than formal vocational/technical training: learning on the job}\cell
+\qr {111645}\cell
+\qr {30.78}\cell
+\qr {58.46}\cell
+\row
+\ql {Received vocational/technical training other than formal vocational/technical training: others}\cell
+\qr {643}\cell
+\qr {0.18}\cell
+\qr {58.64}\cell
+\row
+\ql {Did not receive any vocational/technical training}\cell
+\qr {150032}\cell
+\qr {41.36}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx5000\clbrdrt\brdrw10\brdrs\cellx6500\clbrdrt\brdrw10\brdrs\cellx8000\clbrdrt\brdrw10\brdrs\cellx9500 
+\ql {Total}\cell
+\qr {362713}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx9500\cell
+\row}
+
+
+{
+{\b\qc\line Coal miners, age>=15_  - Field of training }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx5000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6500\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx8000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx9500
+\ql {Field Of Training}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx5000\cellx6500\cellx8000\cellx9500
+\ql {Automotive}\cell
+\qr {9359}\cell
+\qr {12.88}\cell
+\qr {12.88}\cell
+\row
+\ql {Electrical, Power and Electronics}\cell
+\qr {20785}\cell
+\qr {28.62}\cell
+\qr {41.50}\cell
+\row
+\ql {Iron and Steel, Mining, Earthmoving and Infra Building}\cell
+\qr {13191}\cell
+\qr {18.16}\cell
+\qr {59.66}\cell
+\row
+\ql {Mechanical Engineering: Capital Goods, Strategic Manufacturing}\cell
+\qr {8048}\cell
+\qr {11.08}\cell
+\qr {70.74}\cell
+\row
+\ql {Other}\cell
+\qr {21253}\cell
+\qr {29.26}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx5000\clbrdrt\brdrw10\brdrs\cellx6500\clbrdrt\brdrw10\brdrs\cellx8000\clbrdrt\brdrw10\brdrs\cellx9500 
+\ql {Total}\cell
+\qr {72636}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx9500\cell
+\row}
+
+
+{
+{\b\qc\line Coal miners, age>=15_  - Duration of training }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx5000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6500\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx8000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx9500
+\ql {Duration Of Training}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx5000\cellx6500\cellx8000\cellx9500
+\ql {Less than 3 months}\cell
+\qr {6636}\cell
+\qr {9.14}\cell
+\qr {9.14}\cell
+\row
+\ql {3 months or more but less than 6 months}\cell
+\qr {26497}\cell
+\qr {36.48}\cell
+\qr {45.62}\cell
+\row
+\ql {6 months or more but less than 12 months}\cell
+\qr {14922}\cell
+\qr {20.54}\cell
+\qr {66.16}\cell
+\row
+\ql {12 months or more but less than 18 months}\cell
+\qr {8426}\cell
+\qr {11.60}\cell
+\qr {77.76}\cell
+\row
+\ql {18 months or more but less than 24 months}\cell
+\qr {11371}\cell
+\qr {15.65}\cell
+\qr {93.41}\cell
+\row
+\ql {24 months or more}\cell
+\qr {4784}\cell
+\qr {6.59}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx5000\clbrdrt\brdrw10\brdrs\cellx6500\clbrdrt\brdrw10\brdrs\cellx8000\clbrdrt\brdrw10\brdrs\cellx9500 
+\ql {Total}\cell
+\qr {72636}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx9500\cell
+\row}
+
+
+{
+{\b\qc\line Coal miners, age>=15_  - Location of training }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx5000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6500\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx8000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx9500
+\ql {Type Of Training}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx5000\cellx6500\cellx8000\cellx9500
+\ql {On the job}\cell
+\qr {25516}\cell
+\qr {35.13}\cell
+\qr {35.13}\cell
+\row
+\ql {Other than on the job: Part-time}\cell
+\qr {12846}\cell
+\qr {17.69}\cell
+\qr {52.81}\cell
+\row
+\ql {Other than on the job: Full-time}\cell
+\qr {34274}\cell
+\qr {47.19}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx5000\clbrdrt\brdrw10\brdrs\cellx6500\clbrdrt\brdrw10\brdrs\cellx8000\clbrdrt\brdrw10\brdrs\cellx9500 
+\ql {Total}\cell
+\qr {72636}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx9500\cell
+\row}
+
+
+{
+{\b\qc\line Coal miners, age>=15_  - Source of funding for training }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx2200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx3700\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx5200\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6700
+\ql {Source Of Funding The Training}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx2200\cellx3700\cellx5200\cellx6700
+\ql {Govt}\cell
+\qr {25965}\cell
+\qr {35.75}\cell
+\qr {35.75}\cell
+\row
+\ql {Own funding}\cell
+\qr {33587}\cell
+\qr {46.24}\cell
+\qr {81.99}\cell
+\row
+\ql {Others}\cell
+\qr {13084}\cell
+\qr {18.01}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx2200\clbrdrt\brdrw10\brdrs\cellx3700\clbrdrt\brdrw10\brdrs\cellx5200\clbrdrt\brdrw10\brdrs\cellx6700 
+\ql {Total}\cell
+\qr {72636}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx6700\cell
+\row}
+
+
+{
+{\b\qc\line Coal miners, age>=15_  - Employment occupation }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx5000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6500\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx8000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx9500
+\ql {Usual status_NCO}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx5000\cellx6500\cellx8000\cellx9500
+\ql {Managing directors and Chief Executives}\cell
+\qr {1259}\cell
+\qr {0.34}\cell
+\qr {0.34}\cell
+\row
+\ql {Manufacturing, Mining, Construction and Distribution Managers}\cell
+\qr {2107}\cell
+\qr {0.56}\cell
+\qr {0.90}\cell
+\row
+\ql {Professional Services Managers}\cell
+\qr {1819}\cell
+\qr {0.48}\cell
+\qr {1.38}\cell
+\row
+\ql {Other Services Managers}\cell
+\qr {482}\cell
+\qr {0.13}\cell
+\qr {1.51}\cell
+\row
+\ql {Physical and Earth Science Professionals}\cell
+\qr {1746}\cell
+\qr {0.47}\cell
+\qr {1.98}\cell
+\row
+\ql {Architects, Planners, Surveyors and Designers}\cell
+\qr {1338}\cell
+\qr {0.36}\cell
+\qr {2.33}\cell
+\row
+\ql {Physical and Engineering Science Technicians}\cell
+\qr {3157}\cell
+\qr {0.84}\cell
+\qr {3.17}\cell
+\row
+\ql {Mining, Manufacturing and Construction Supervisors}\cell
+\qr {24398}\cell
+\qr {6.50}\cell
+\qr {9.67}\cell
+\row
+\ql {Process Control Technicians}\cell
+\qr {4797}\cell
+\qr {1.28}\cell
+\qr {10.95}\cell
+\row
+\ql {Business Service Agents}\cell
+\qr {2259}\cell
+\qr {0.60}\cell
+\qr {11.55}\cell
+\row
+\ql {Administrative and Specialized Secretaries}\cell
+\qr {1752}\cell
+\qr {0.47}\cell
+\qr {12.02}\cell
+\row
+\ql {General Office Clerks}\cell
+\qr {5845}\cell
+\qr {1.56}\cell
+\qr {13.58}\cell
+\row
+\ql {Numerical Clerks}\cell
+\qr {739}\cell
+\qr {0.20}\cell
+\qr {13.77}\cell
+\row
+\ql {Material Recording and Transport Clerks}\cell
+\qr {917}\cell
+\qr {0.24}\cell
+\qr {14.02}\cell
+\row
+\ql {Other Clerical Support Workers}\cell
+\qr {137}\cell
+\qr {0.04}\cell
+\qr {14.06}\cell
+\row
+\ql {Other Sales Workers}\cell
+\qr {309}\cell
+\qr {0.08}\cell
+\qr {14.14}\cell
+\row
+\ql {Protective Service Workers}\cell
+\qr {19994}\cell
+\qr {5.33}\cell
+\qr {19.47}\cell
+\row
+\ql {Market Gardeners & Crop Growers}\cell
+\qr {860}\cell
+\qr {0.23}\cell
+\qr {19.69}\cell
+\row
+\ql {Building Finishers and Related Trades Workers}\cell
+\qr {5417}\cell
+\qr {1.44}\cell
+\qr {21.14}\cell
+\row
+\ql {Sheet and Structural Metal Workers, Moulders and Welders, and Related Workers}\cell
+\qr {11668}\cell
+\qr {3.11}\cell
+\qr {24.25}\cell
+\row
+\ql {Machinery Mechanics and Repairers}\cell
+\qr {32828}\cell
+\qr {8.75}\cell
+\qr {32.99}\cell
+\row
+\ql {Electrical Equipment Installers and Repairers}\cell
+\qr {26430}\cell
+\qr {7.04}\cell
+\qr {40.04}\cell
+\row
+\ql {Wood Treaters, Cabinet Makers and Related Trades Workers}\cell
+\qr {1162}\cell
+\qr {0.31}\cell
+\qr {40.35}\cell
+\row
+\ql {Mining and Mineral Processing Plant Operators}\cell
+\qr {63235}\cell
+\qr {16.85}\cell
+\qr {57.19}\cell
+\row
+\ql {Chemical and Photographic Products Plant and Machine Operators}\cell
+\qr {2034}\cell
+\qr {0.54}\cell
+\qr {57.74}\cell
+\row
+\ql {Rubber, Plastic and Paper Products Machine Operators}\cell
+\qr {852}\cell
+\qr {0.23}\cell
+\qr {57.96}\cell
+\row
+\ql {Textile, Fur and Leather Products Machine Operators}\cell
+\qr {1165}\cell
+\qr {0.31}\cell
+\qr {58.27}\cell
+\row
+\ql {Heavy Truck and Bus Drivers}\cell
+\qr {28034}\cell
+\qr {7.47}\cell
+\qr {65.74}\cell
+\row
+\ql {Mobile Plant Operators}\cell
+\qr {5789}\cell
+\qr {1.54}\cell
+\qr {67.29}\cell
+\row
+\ql {Domestic, Hotel and Office Cleaners and Helpers}\cell
+\qr {835}\cell
+\qr {0.22}\cell
+\qr {67.51}\cell
+\row
+\ql {Mining and Construction Labourers}\cell
+\qr {111058}\cell
+\qr {29.59}\cell
+\qr {97.10}\cell
+\row
+\ql {Transport and Storage Labourers}\cell
+\qr {9326}\cell
+\qr {2.48}\cell
+\qr {99.58}\cell
+\row
+\ql {Refuse Workers}\cell
+\qr {1563}\cell
+\qr {0.42}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx5000\clbrdrt\brdrw10\brdrs\cellx6500\clbrdrt\brdrw10\brdrs\cellx8000\clbrdrt\brdrw10\brdrs\cellx9500 
+\ql {Total}\cell
+\qr {375311}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx9500\cell
+\row}
+
+
+{
+{\b\qc\line Coal miners, age>=15_ - Nature of contracts }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx5000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6500\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx8000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx9500
+\ql {Usual status_Job contract}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx5000\cellx6500\cellx8000\cellx9500
+\ql {no written job contract}\cell
+\qr {70881}\cell
+\qr {19.13}\cell
+\qr {19.13}\cell
+\row
+\ql {written job contract: for 1 year or less}\cell
+\qr {40420}\cell
+\qr {10.91}\cell
+\qr {30.04}\cell
+\row
+\ql {written job contract: more than 1 year to 3 years}\cell
+\qr {6317}\cell
+\qr {1.70}\cell
+\qr {31.74}\cell
+\row
+\ql {written job contract: more than 3 years}\cell
+\qr {252913}\cell
+\qr {68.26}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx5000\clbrdrt\brdrw10\brdrs\cellx6500\clbrdrt\brdrw10\brdrs\cellx8000\clbrdrt\brdrw10\brdrs\cellx9500 
+\ql {Total}\cell
+\qr {370531}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx9500\cell
+\row}
+
+
+{
+{\b\qc\line Coal miners, age>=15_ - Provision of social security benefits }{\par}
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx5000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx6500\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx8000\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs\cellx9500
+\ql {Usual status_Social Security}\cell
+\qr {Freq.}\cell
+\qr {Percent}\cell
+\qr {Cum.}\cell
+\row
+\trowd\trgaph108\trleft-108\cellx5000\cellx6500\cellx8000\cellx9500
+\ql {eligible for: only PF/ pension}\cell
+\qr {28911}\cell
+\qr {7.80}\cell
+\qr {7.80}\cell
+\row
+\ql {eligible for: only PF/ pension and gratuity}\cell
+\qr {18996}\cell
+\qr {5.13}\cell
+\qr {12.93}\cell
+\row
+\ql {eligible for: only PF/ pension and health care/ maternity benefits}\cell
+\qr {80616}\cell
+\qr {21.76}\cell
+\qr {34.69}\cell
+\row
+\ql {eligible for: PF/ pension, gratuity, health care/ maternity benefits}\cell
+\qr {178549}\cell
+\qr {48.19}\cell
+\qr {82.87}\cell
+\row
+\ql {not eligible for any of above social security benefits}\cell
+\qr {63459}\cell
+\qr {17.13}\cell
+\qr {100.00}\cell
+\row
+\trowd\trgaph108\trleft-108\clbrdrt\brdrw10\brdrs\cellx5000\clbrdrt\brdrw10\brdrs\cellx6500\clbrdrt\brdrw10\brdrs\cellx8000\clbrdrt\brdrw10\brdrs\cellx9500 
+\ql {Total}\cell
+\qr {370531}\cell
+\qr {100.00}\cell
+\qr {}\cell
+\row
+}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx9500\cell
+\row}
+
+
+\writepositionforappend
+}}
