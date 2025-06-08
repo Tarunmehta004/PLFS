@@ -3,4 +3,4 @@ NSSO's PLFS 2023-24 contains raw data from first visit to all households (HHs); 
 
 I believe that especially for analysis that rely on individual observations, such as regressions and ML algorithms, this exercise is useful. The notebook in this repo is an attempt to create this unified dataframe. 
 
-Note: Due to memory limitations, I have not uploaded the final dataframe on Github. If you find my approach logical, or have any comments, please reach out to me at [tarunm004@gmail.com].  
+Note: Due to memory limitations, I have not uploaded the final dataframe on Github. If you find my approach logical, or have any comments, please reach out to me at [tarunm004@gmail.com]().  
