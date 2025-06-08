@@ -1,0 +1,17 @@
+# venv
+PLFSenv/
+PLFS 2023-24/.venv/
+PLFS 2023-24/newenv/
+
+# STATA
+Stata14.rar
+
+# Documentation and extracted files
+PLFS 2023-24/Documentation/
+PLFS 2023-24/Extracted_files/
+PLFS 2023-24/Modified data files/
+PLFS 2023-24/Raw data/
+
+# Miscellaneous
+Literature/
+TM - Labour datasets 18Aug23.gsheet
